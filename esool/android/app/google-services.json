@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1015405023833",
+    "project_id": "esool-7735a",
+    "storage_bucket": "esool-7735a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015405023833:android:0ad3a44cd3d05e48325748",
+        "android_client_info": {
+          "package_name": "com.esool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015405023833-e1no14fnpaj6ak60l6mvqg5p15fc3a5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWeBBjEseHLP97VWT8jPOhDEIsAqtVct8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015405023833-e1no14fnpaj6ak60l6mvqg5p15fc3a5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015405023833-1dkmbdsfiglage7mtekkududmn9jmsi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.esool"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

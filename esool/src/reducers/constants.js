@@ -1,0 +1,6 @@
+export const ITEMS_GET_ITEMS = 'ITEMS/GET_ALL';
+export const ITEMS_GET_QUANTITY = 'ITEMS/GET_QUANTITY';
+export const ITEMS_ADD_ITEMS = 'ITEMS/ADD_ITEMS';
+
+export const CART_GET_ALL = 'CART/GET_ALL';
+export const CART_ADD_ITEMS = 'CART/ADD_ITEMS';

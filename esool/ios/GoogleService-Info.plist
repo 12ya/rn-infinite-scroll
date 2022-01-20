@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1015405023833-fd6cr0jrdvbi2hg9prg26o73oi7di5s4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1015405023833-fd6cr0jrdvbi2hg9prg26o73oi7di5s4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvTOLJSFzl74F3Blzz0hVAN3T9HOD_FxA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1015405023833</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.esool</string>
+	<key>PROJECT_ID</key>
+	<string>esool-7735a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>esool-7735a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1015405023833:ios:d199091cf42ea90e325748</string>
+</dict>
+</plist>
