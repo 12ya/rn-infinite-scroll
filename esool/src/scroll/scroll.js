@@ -41,7 +41,7 @@ export function InfiniteScroll() {
 
         // .post('http://172.30.1.11:1337/api/fakerdatas?_limit=10', {
         axios
-            .get(`http://192.168.0.2:1337/api/fakerdatas?${query}`)
+            .get(`http://ec2-13-125-214-253.ap-northeast-2.compute.amazonaws.com:1337/api/fakerdatas?${query}`)
             .then((res) => {
                 console.log(JSON.stringify(res.data.data), 'response from scroll');
                 setInfo([...info, ...res.data.data]);
