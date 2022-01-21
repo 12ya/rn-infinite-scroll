@@ -52,7 +52,7 @@ export function InfiniteScroll() {
 
     function ItemToRender(info) {
         return (
-            <View key={info.item.attributes.title} style={{ alignItems: 'center' }}>
+            <View key={info.index} style={{ alignItems: 'center' }}>
                 <Text style={{ color: 'brown' }}>{info.index + 1}</Text>
                 <Text>{info.item.attributes.title}</Text>
                 <Image style={{ width: 200, height: 100 }} source={{ uri: info.item.attributes.image_url }} />
@@ -75,7 +75,7 @@ export function InfiniteScroll() {
             keyExtractor={info.index}
             ListFooterComponent={LoaderComponent}
             onEndReached={loadMore}
-            onEndReachedThreshold={0.6}
+            onEndReachedThreshold={1}
         />
     );
 }
